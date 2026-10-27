@@ -27,7 +27,7 @@ CartPole-v1, Acrobot-v1, MountainCarContinuous-v0 and HalfCheetah-v5 with ten se
 @inproceedings{Eguchi2026GAPO,
   author    = {Eguchi, Kosei and Lin, Donghui},
   title     = {{GAPO}: Enhancing Policy Optimization with Group Augmentation in Reinforcement Learning},
-  booktitle = {},
+  booktitle = {the 2026 IEEE International Conference on Agentic AI (IEEE ICA 2026)},
   year      = {2026},
   note      = {To appear}
 }
